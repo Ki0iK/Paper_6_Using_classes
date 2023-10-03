@@ -1,3 +1,5 @@
+package Paper_6_Using_classes.Homework_1.src;
+
 public class Main {
     public static void main(String[] args)
     {
